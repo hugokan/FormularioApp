@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">FormularioApp</string>
+    <string name="titulo">Introduce tus datos</string>
+    <string name="nombre">Hugo Quintero</string>
+    <string name="formato_fecha">03/01/1981</string>
+    <string name="telefono">099555000</string>
+    <string name="email">hugo@hugo.com</string>
+    <string name="descripcion">Android Developer</string>
+
+    <string name="h_nombre">Nombre Completo</string>
+    <string name="h_formato_fecha">Fecha de Nacimiento</string>
+    <string name="h_telefono">Teléfono</string>
+    <string name="h_email">Correo Electrónico</string>
+    <string name="h_descripcion">Descripción</string>
+
+
+    <string name="icon_nombre">icon_nombre</string>
+    <string name="icon_telefono">icon_telefono</string>
+    <string name="icon_email">icon_email</string>
+    <string name="icon_descripcion">icon_descripcion</string>
+
+    <string name="boton_siguiente">Siguiente</string>
+    <string name="boton_editar">Editar Datos</string>
+
+    <string name="titulo_2">Corfirmar Datos</string>
+</resources>
